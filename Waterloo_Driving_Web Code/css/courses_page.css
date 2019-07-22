@@ -1,0 +1,19 @@
+.panel-primary{
+	margin-top: 7%;
+	margin-bottom: 3%;
+}
+.outside_panel{
+		
+}
+.inside_panel{
+	height: 200px;
+}
+.links{
+	text-align: center;
+}
+.links.a{
+	margin-top: 1%;
+}
+.panel-heading{
+	font-size: 17px;
+}

@@ -1,0 +1,37 @@
+#content_id.container{
+    position: relative;
+    background-image: url("../images/w_background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.9;
+    color: white;
+}
+.absolute-text{
+    font-family: "Georgia", Times, serif;
+    font-size: 24px;
+    padding-top: 10%;
+}
+.professional-text{
+    font-size: 35px;
+    font-weight: bold;
+    transform: scale(.8, 1.2);
+}
+.main-text{
+    font-size: 45px;
+    font-weight: bold;
+    transform: scale(.8, 1.4);
+
+}
+.experience-text{
+    font-size: 20px;
+    font-style: italic;
+}
+.link{
+    margin-top: 2%;
+    font-size: 120%;
+    color: white;
+    margin-bottom: 10%;
+}
+a{
+    color: white;
+}

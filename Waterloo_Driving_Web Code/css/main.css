@@ -1,0 +1,63 @@
+html,body{
+    margin:0;
+    padding: 0;
+    height: 100%;
+    background-color: lightgray;
+}
+.navbar, .navbar.div{
+    height:15%;
+    background-color: white !important;
+}
+#wrapper{
+    min-height: 100%;
+    position: relative;
+    
+}
+@media (max-width: 767px) {
+    .navbar-collapse {
+        background: white !important; /*Add your own background*/
+    }
+}
+.logo{
+    content: url("../images/waterloo felier.gif");
+}
+a{
+    color:darkblue !important;
+}
+.in{
+    margin-top:6%;
+}
+.contact_info{
+    color: darkgray;   
+}
+.call{
+    margin-top: 3%;
+    font-size: 20px;
+    color:darkblue;
+}
+.number{
+    font-size:35px;
+}
+#content_id{
+    width: 97%;
+    margin: 0 auto;
+    padding:60px 0;
+}
+.footer{
+    padding-top: 1%;
+    text-align: center;
+    background-color:white;
+    color: gray;
+    position: fixed;
+   bottom: 0px;
+   width: 100%;
+}
+.navbar-nav{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.icon-bar{
+    color: darkblue !important;
+    background-color: darkblue !important;
+    border-color: darkblue;
+}

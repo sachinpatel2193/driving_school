@@ -1,0 +1,27 @@
+#content_id{
+	margin-top: 3%;
+}
+.content{
+	padding:3%;
+}
+.address{
+	font-size: 18px;
+	color: #998003;
+}
+.info{
+	font-size: 20px;
+}
+.thanks_note{
+	padding:4%;
+	font-size: 17px;
+	padding-bottom: 14%;
+}
+.submit_button{
+	text-align: center;
+}
+p{
+	font-size: 15px;
+}
+form{
+	margin-bottom: 1%;
+}
